@@ -1,0 +1,7 @@
+ping_monitor:
+  ips:
+    - 1.1.1.1
+  interval: 5
+  webhook: "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  username: PINGMonitor
+  avatar_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
